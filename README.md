@@ -14,4 +14,4 @@ Django • Flask • Selenium • BS4 • Pandas • Matplotlib • Pillow
 Git • Docker • CI/CD (GitHub Actions) • SQL Databases
 
 **Practices:**  
-Agile Development • Unit Testing • Code Reviews
+Agile Development • Unit Testing
