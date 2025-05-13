@@ -5,13 +5,13 @@ I'm a Computer Science student at [TU Berlin](https://www.tu.berlin) with a pass
 ## Skills
 
 **Languages:**  
-Python • JavaScript • Java • C • C# • C++ • HTML • CSS 
+Python • Dart • Java • C • C# • C++ • HTML • CSS 
 
 **Frameworks & Libraries:**  
-Django • Flask • Selenium • BS4 • Pandas • Matplotlib • Pillow
+Django • Flask • Selenium • BS4 • Pandas • Matplotlib • Pillow • Flutter
 
 **Tools & Technologies:**  
-Git • Docker • CI/CD (GitHub Actions) • SQL Databases
+Git • Docker • CI/CD (GitHub Actions) • SQL Databases 
 
 **Practices:**  
 Agile Development • Unit Testing
